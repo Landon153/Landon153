@@ -1,5 +1,5 @@
 ### Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<img src="https://raw.githubusercontent.com/Landon153/Landon153/main/background.jpg" width="500" height="700">
+<img src="https://raw.githubusercontent.com/Landon153/Landon153/main/thumbnail.jpeg" width="500" height="700">
 <!--
 **Landon153/Landon153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
