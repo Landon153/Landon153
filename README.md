@@ -1,30 +1,30 @@
-### Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<img src="https://raw.githubusercontent.com/Landon153/Landon153/main/thumbnail.jpeg" width="500" height="700">
-
+<h1 align="center">
+Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+</h1>
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dat-nguyen-landon-2a68b71b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.facebook.com/the.gioi.cua.at/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/datthegioi?fbclid=IwY2xjawMLQyRleHRuA2FlbQIxMABicmlkETFMNGxVdDdjNHZMV0ZUU3hZAR6PTQRGRoXZDKhqi54YKl1K39sGOpumxgtANke5HjAGC6espg2plk5xnH-WBQ_aem_JD_52hvABws60j3NbEuJpg">
+    <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <div><img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt=""/></div>
 </div>
-
+<img src="https://raw.githubusercontent.com/Landon153/Landon153/main/thumbnail.jpeg" width="500" height="700">
  <h1>Glad to see you here</h1>
  <ul>
- <li>👀 I’m TypeScript/Javascript developer (REACT,REACT-NATIVE AND NODE) from Vietnam </li>
+ <li>👀 I’m Fullstack developer from Vietnam </li>
 <li> 🌱 I'm working to develop my Tech Startup.</li>
 <li>💞️ I’m looking to collaborate on any Web/Mobile related projects</li>
-<li> 💻Cloud Developer student at Udacity</li>
+<li> 💻 Cloud Architech AWS </li>
 </ul>
-### :hammer_and_wrench: Languages and Tools :
+<h2> My Tehcstack </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
