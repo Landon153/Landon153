@@ -34,21 +34,21 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <h3> Frontend
  
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="SASS" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" title="React" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" title="Next.js" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="40" title="Zustand" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="40" title="Ant Design" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" title="Vue" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original-wordmark.svg" width="40" title="Ant Design" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI Design" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" width="40" title="Chakra UI Design" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="40" title="ChartJS" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original-wordmark.svg" width="40" title="Chakra UI Design" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original-wordmark.svg" width="40" title="ChartJS" />  
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" title="Tailwind CSS" />  
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vitejs/vitejs-original.svg" width="40" title="Vite" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/webpack/webpack-original.svg" width="40" title="Webpack" />
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/webpack/webpack-original-wordmark.svg" width="40" title="Webpack" />
 </div>
 
 <h3> Backend
@@ -56,16 +56,16 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" title="NestJS" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="40" title="Fastify" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="Fastapi" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" title="Go" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" width="40" title="NestJS" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" title="Express.js" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original-wordmark.svg" width="40" title="Fastify" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="40" title="Fastapi" />   
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" width="40" title="Django" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" title="Elasticsearch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" title="Kafka" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="40" title="RabbitMQ" />
 </div>
 
 <h3> Database & ORM
@@ -75,6 +75,8 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL" />
 <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" title="Pinecone" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" title="Elasticsearch" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" width="40" title="Mongoose" />
 <img src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" width="40" title="TypeOrm" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original-wordmark.svg" width="40" title="Prisma" />
@@ -98,6 +100,10 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original-wordmark.svg" width="40" title="GitHub" />
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" title="Bitbucket" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vercel/vercel-original-wordmark.svg" width="40" title="Vercel" />
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/digitalocean/digitalocean-original-wordmark.svg" width="40" title="Digital Ocean" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/argocd/argocd-original-wordmark.svg" width="40" title="ArgoCD" />
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cloudflare/cloudflare-original-wordmark.svg" width="40" title="Cloudflare" />
  </div>
 <h3> Tools
  <div>
