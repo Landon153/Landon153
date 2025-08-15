@@ -31,7 +31,7 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 
 <h2> My TechStack
 
-<h2> Frontend
+<h3> Frontend
  
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />  
@@ -51,7 +51,7 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/webpack/webpack-original.svg" width="40" title="Webpack" />
 </div>
 
-<h2> Backend
+<h3> Backend
  
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />  
@@ -68,7 +68,7 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" title="Elasticsearch" />
 </div>
 
-<h2> Database & ORM
+<h3> Database & ORM
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="Mysql" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" width="40" title="MariaDB" />
@@ -81,7 +81,7 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="40" title="SQL Alchemy" />
 </div>
 
-<h2> DevOps / Cloud
+<h3> DevOps / Cloud
  <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" title="Docker" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg" width="40" title="Kubernetes" />  
@@ -99,7 +99,7 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" title="Bitbucket" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vercel/vercel-original-wordmark.svg" width="40" title="Vercel" />
  </div>
-<h2> Tools
+<h3> Tools
  <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" title="Git" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" title="Jira" />  
@@ -111,8 +111,8 @@ Hey there, I'm  Landon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
  </div>
 
 
-<h1> Certificate & Award </h1>
-<img src="https://raw.githubusercontent.com/Landon153/Landon153/main/awrd.jpeg" height="25px" width="25px" style="">
+<h2> Certificate & Award </h1>
+<img src="https://raw.githubusercontent.com/Landon153/Landon153/main/awrd.jpg" height="400px" width="500px" style="">
 <ul>
 <li> EF SET English Certificate C1-C2 level </li>
 <li> AWS Certified Solution Architect Associate (SAA – C03) </li>
